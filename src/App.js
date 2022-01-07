@@ -8,7 +8,6 @@ function App() {
     <div>
       <GoodsList />
       <CartList />
-      <p>change</p>
     </div>
   );
 }

@@ -15,7 +15,7 @@
     "redux": "^4.1.2",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://artemtregub.github.io/",
+  "homepage": "https://artemtregub.github.io/unit_12/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
